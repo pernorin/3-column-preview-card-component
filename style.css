@@ -23,6 +23,7 @@ body {
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
+	height: 100vh;
 }
 main {
 	padding: 20px;
@@ -70,6 +71,30 @@ main {
 	text-decoration: none;
 	color: inherit;
 	margin-top: 20px;
-	padding: 15px 30px;
 	border-radius: 40px;
+	width: 134px;
+	height: 46px;
+}
+.card button:hover,
+.card button:focus {
+	transition: background-color ease 0.3s, color ease 0.3s;
+	border: hsla(0, 0%, 100%, 0.75) solid 2px;
+	background-color: transparent;
+	color: hsla(0, 0%, 100%, 0.75);
+	cursor: pointer;
+}
+@media only screen and (min-width: 1024px) {
+	main {
+		display: flex;
+		margin: 150px auto auto;
+	}
+	.card:nth-of-type(1) {
+		border-radius: 10px 0 0 10px;
+	}
+	.card:nth-last-of-type(1) {
+		border-radius: 0 10px 10px 0;
+	}
+	.card button {
+		margin-top: 70px;
+	}
 }
