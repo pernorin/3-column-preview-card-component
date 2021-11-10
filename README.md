@@ -45,6 +45,5 @@ I started with an easy project to try Frontend Mentor out. Next time I'll do som
 
 ## Author
 
-Per Norin
-
+- Website - [Per Norin](https://pernorin.github.io/3-column-preview-card-component/)
 - Frontend Mentor - [@pernorin](https://www.frontendmentor.io/profile/pernorin)
