@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [My solution](https://pernorin.github.io/3-column-preview-card-component/)
 
 ## My process
 
@@ -45,5 +45,5 @@ I started with an easy project to try Frontend Mentor out. Next time I'll do som
 
 ## Author
 
-- Website - [Per Norin](https://pernorin.github.io/3-column-preview-card-component/)
+- Per Norin
 - Frontend Mentor - [@pernorin](https://www.frontendmentor.io/profile/pernorin)
